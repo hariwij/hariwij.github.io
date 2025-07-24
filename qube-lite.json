@@ -7,7 +7,7 @@
             "description": "",
             "services": {
                 "promiseqube.azurecr.io/backend-lite": "0.0.6-b",
-                "promiseqube.azurecr.io/qube-ui-lite": "0.0.5-g",
+                "promiseqube.azurecr.io/qube-ui-lite": "0.0.5-h",
                 "promiseqube.azurecr.io/cloud-streamer": "0.0.5",
                 "promiseqube.azurecr.io/camera-manager": "0.0.1-b",
                 "promiseqube.azurecr.io/qube-redis": "0.0.2",
