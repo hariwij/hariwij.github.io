@@ -1,0 +1,55 @@
+{
+    "releases": [
+        {
+            "version": "0.0.3",
+            "release_date": 1500,
+            "release_notes_url": "",
+            "description": "",
+            "services": {
+                "promiseqube.azurecr.io/backend-lite": "0.0.6-b",
+                "promiseqube.azurecr.io/qube-ui-lite": "0.0.5-g",
+                "promiseqube.azurecr.io/cloud-streamer": "0.0.5",
+                "promiseqube.azurecr.io/camera-manager": "0.0.1-b",
+                "promiseqube.azurecr.io/qube-redis": "0.0.2",
+                "promiseqube.azurecr.io/heartbeat-agent": "0.0.2",
+                "promiseqube.azurecr.io/qube-nginx": "0.0.1",
+                "promiseqube.azurecr.io/healthcheck": "0.0.3",
+                "promiseqube.azurecr.io/qube-mediamtx": "0.0.1"
+            }
+        },
+        {
+            "version": "0.0.2",
+            "release_date": 1000,
+            "release_notes_url": "",
+            "description": "",
+            "services": {
+                "promiseqube.azurecr.io/backend-lite": "0.0.6-a",
+                "promiseqube.azurecr.io/qube-ui-lite": "0.0.5-g",
+                "promiseqube.azurecr.io/cloud-streamer": "0.0.5",
+                "promiseqube.azurecr.io/camera-manager": "0.0.1-b",
+                "promiseqube.azurecr.io/qube-redis": "0.0.2",
+                "promiseqube.azurecr.io/heartbeat-agent": "0.0.2",
+                "promiseqube.azurecr.io/qube-nginx": "0.0.1",
+                "promiseqube.azurecr.io/healthcheck": "0.0.3",
+                "promiseqube.azurecr.io/qube-mediamtx": "0.0.1"
+            }
+        },
+        {
+            "version": "0.0.1",
+            "release_date": 900,
+            "release_notes_url": "",
+            "description": "",
+            "services": {
+                "promiseqube.azurecr.io/backend-lite": "0.0.6",
+                "promiseqube.azurecr.io/qube-ui-lite": "0.0.5-g",
+                "promiseqube.azurecr.io/cloud-streamer": "0.0.5",
+                "promiseqube.azurecr.io/camera-manager": "0.0.1-b",
+                "promiseqube.azurecr.io/qube-redis": "0.0.2",
+                "promiseqube.azurecr.io/heartbeat-agent": "0.0.2",
+                "promiseqube.azurecr.io/qube-nginx": "0.0.1",
+                "promiseqube.azurecr.io/healthcheck": "0.0.3",
+                "promiseqube.azurecr.io/qube-mediamtx": "0.0.1"
+            }
+        }
+    ]
+}
